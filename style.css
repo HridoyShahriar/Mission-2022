@@ -1,0 +1,22 @@
+body{font-family: 'Poppins', sans-serif;}
+h1{font-size: 40px;}
+.color-orange{color: orange;}
+.flex1{display: flex;}
+.half{width: 50%;
+padding-left: 5%;
+padding-top: 10%;}
+.halfs img{width:60%;
+padding-left: 8%;}
+.linked{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(255, 89, 89);
+padding: 10px 15px;
+border-radius: 6px;}
+.br{border-left: 4px solid rgb(255, 89, 89);
+margin: 0%;
+padding-left:7px;}
+.first-margin{margin-bottom: 20px;}
+.second-margin{margin-top: 40px;}
+.amar{text-align: center;
+margin-top: 100px;}
