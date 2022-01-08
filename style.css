@@ -47,3 +47,26 @@ h1{font-size: 40px;}
     ;}
     .bc-yellow img{width: 70%;}
     .color-nevy{color: #13103a;}
+
+    .flex2{display: flex;
+    margin-top: 50px;}
+    .half1{width: 50%;
+    padding-top: 80px;}
+    .halfs1 img{width: 80%;
+        padding-left: 100px;
+    background-image: url(shapes/shape-12.png);
+    background-repeat: no-repeat;
+background-position: left center;}
+    .colorgray{color: #333333;
+        margin: 0;}
+    .colorgray1{color: #333333;
+    margin: 0;}
+    .ektu-dure{padding-right: 50px;}
+    .linked1{
+        text-decoration: none;
+        color: white;
+        background-color: #ff5959;
+        padding: 10px 15px;
+        border-radius: 6px;}
+        .padding1{padding-left: 100px;
+        padding-right: 100px;}
