@@ -86,5 +86,15 @@ margin: 0;}
 .colorgray22{color: #333333;
 margin: 0;}
 .ektudure{padding-right: 150px;}
+footer h1{text-align: center;}
+footer p{text-align: center;}
+footer{margin-top: 100px;
+color: white;
+background-color: #0b0d17;}
+.colorakta{color: #ff5959;}
+.pad{padding-top: 20px;
+margin-bottom: 10px;}
+.pad1{padding-bottom: 30px;
+margin-top: 0;}
 
 
