@@ -70,3 +70,21 @@ background-position: left center;}
         border-radius: 6px;}
         .padding1{padding-left: 100px;
         padding-right: 100px;}
+        .flex3{display: flex;
+        margin-top: 50px;}
+        .half2{width: 50%;
+        padding-left: 100px;
+        padding-top: 100px;}
+        .halfs2 img{width: 80%;
+        padding-left: 60px;
+    padding-right: 90px;
+background-image: url(shapes/shape-12.png);
+background-repeat: no-repeat;
+background-position: 100% 120%;}
+.colorgray2{color: #333333;
+margin: 0;}
+.colorgray22{color: #333333;
+margin: 0;}
+.ektudure{padding-right: 150px;}
+
+
